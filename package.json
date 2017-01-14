@@ -1,0 +1,15 @@
+{
+  "name": "noodle",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.4.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kurtfusion/noodle.git"
+  },
+  "url": "https://github.com/kurtfusion/noodle/issues",
+  "email": "kurtfusion@gmail.com",
+  "license": "GPL-3.0"
+}
